@@ -8,6 +8,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+```sql
+-- How I see challenges:
+ALTER TABLE Current_Process
+ADD CONSTRAINT Continuous_Improvement CHECK (Status <> 'Inefficient');
+```
+
 <h2 align="left">🛠 Language and tools</h2>
 
 <div align="left">
