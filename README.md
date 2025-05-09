@@ -1,3 +1,5 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
 - 👋 Hi, I’m @TonyLe97
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
